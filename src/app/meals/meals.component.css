@@ -1,0 +1,15 @@
+/* .bg-linkActive
+{
+    border: 1px solid #000 !important;
+    color: lightseagreen !important;
+    padding: 5px !important;
+    text-decoration: none !important;
+} */
+ @media screen and (max-width : 700px) {
+    .bg-dark
+    {
+        display: flex !important;
+        flex-direction: column !important;
+        justify-content: center !important;
+    }
+ }
